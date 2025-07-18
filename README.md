@@ -20,6 +20,8 @@
 - **matplotlib** / **seaborn** — для построения графиков
 - Jupyter Notebook (опционально)
 
+Чтобы установить необходимые библиотеки **py -m pip install -r requirements.txt**
+
 ## Структура проекта
 
 Netflix-Data-Analysis/
